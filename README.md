@@ -18,23 +18,29 @@ Once you run main.exe file it will open https://web.whatsapp.com/ in chromebrows
 :heavy_check_mark: Person's name to whome you want to communicate<br>
 :heavy_check_mark: Language that you understand.<br>
 :heavy_check_mark: Language that other understand.<br>
-Once you have given all the details then <b>You are all set for chit-chat</b>
+Once you have given all the details then <b>You are all set for chit-chat.</b>
 
 ## SCREENSHOTS
 
 :small_blue_diamond: <b>After running main.exe it ask for scanning the QR Code.</b>
+
 ![1](https://user-images.githubusercontent.com/66904677/96849315-17525b80-1473-11eb-96b6-ef63766f27a8.png)
 
+
 :small_blue_diamond: <b>Give all the inputs that are asked i.e. person's name and languages</b>
+
 ![2](https://user-images.githubusercontent.com/66904677/96849276-09043f80-1473-11eb-9f99-44996e35d9a3.png)
 
+
 :small_blue_diamond: <b>You Chat in main.exe and it will translate messages and automatically send translated messages on WhatsApp</b>
+
 ![3](https://user-images.githubusercontent.com/66904677/96849294-102b4d80-1473-11eb-9ae4-80fc762d498f.jpg)
+
 
 ## NOTE: :pencil:
 :pencil2: Make sure that the chromedriver.exe file should be there in the same directory.<br>
 :pencil2: Please provide the correct person's name(case sensitive) as saved in your contacts.<br>
-:pensil2: It uses google translator for translation.<br>
+:pencil2: It uses google translator for translation.<br>
 :pencil2: This project is only for study purposes.<br>
 
 
