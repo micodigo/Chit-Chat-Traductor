@@ -12,10 +12,10 @@
 Python language is used with Selenium for testing. It has far less verbose and easy to use than any other programming language. The Python APIs empower you to connect with the browser through Selenium. Selenium can send the standard Python commands to different browsers, despite variation in their browser's design.
 
 ## Intro
-WhatsApp is one of the most used platform for communication. A communication between two persons can be done only when both person know a common language. But if there is no common language, then communication can't be done. So our project, <b>Chit Chat Traductor</b> mainly focus on breaking the language barrier between two person who don't know a common language.
-It breaks the language barrier allowing you to communicate with everyone even with people that don't speak the same language as you. It translate their messages to your language and translate your messages to their language, making it feel like you are communicating in the same language. It will automatically translate every message you received in any language to your language and translate every message you typed to the other person's language and then send it to them.
-Once you run main.exe file it will open https://web.whatsapp.com/ in chromebrowser and ask for scanning the OR Code for opening your watsapp in the browser. Once you scan the code, it will ask:-<br>
-:heavy_check_mark: Person's name to whome you want to communicate<br>
+WhatsApp is one of the most used platform for communication. Communication between two persons can be done only when both people know a common language. But if there is no common language, then communication can't be done. So our project, <b>Chit Chat Traductor</b> mainly focuses on breaking the language barrier between two people who don't know a common language.
+It breaks the language barrier allowing you to communicate with everyone even with people that don't speak the same language as you. It translates their messages to your language and translates your messages to their language, making it feel like you are communicating in the same language. It will automatically translate every message you received in any language to your language and translate every message you typed to the other person's language and then send it to them.
+Once you run main.exe file it will open https://web.whatsapp.com/ in the chrome browser and ask for scanning the OR Code for opening your WhatsApp in the browser. Once you scan the code, it will ask:-<br>
+:heavy_check_mark: Person's name to whom you want to communicate<br>
 :heavy_check_mark: Language that you understand.<br>
 :heavy_check_mark: Language that other understand.<br>
 Once you have given all the details then <b>You are all set for chit-chat.</b>
