@@ -1,7 +1,7 @@
 # Chit Chat Traductor :octocat:
-## <b>A Chat Translator for WhatsApp.</b>
+#### <b>A Chat Translator for WhatsApp.</b>
 
-## Technology Used
+### Technology Used
 :heavy_check_mark: Selenium
 :heavy_check_mark: Python
 
